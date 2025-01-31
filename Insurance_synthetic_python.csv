@@ -1,0 +1,701 @@
+,Customer_ID,Age,Location,Profession,Premium_Amount,Dependents,Product,Gender,is_insured_earlier,Organization
+0,C_101,54,Delhi,DevOps Engineer,4609.450424,1,Homeowners Insurance,Male,0,HCL Technologies
+1,C_102,55,Ahmedabad,QA Engineer,99271.94794,5,Health Insurance,Female,0,Accenture India
+2,C_103,43,Mumbai,IT Project Manager,52388.1299,6,Renters Insurance,Male,1,Wipro
+3,C_104,57,Indore,DevOps Engineer,87707.54618,2,Life Insurance,Male,1,Aricent
+4,C_105,58,Bengaluru,Web Developer,99041.3176,7,Disability Insurance,Male,1,Infosys
+5,C_106,42,Pune,IT Consultant,2302.782083,6,Health Insurance,Male,1,Lionbridge Technologies
+6,C_107,34,Pune,Machine Learning Engineer,40547.35526,6,Health Insurance,Male,0,Mindtree
+7,C_108,53,Kolkata,Network Engineer,96641.75129,7,Disability Insurance,Male,0,Aricent
+8,C_109,55,Chennai,System Analyst,1759.198707,0,Critical Illness Insurance,Male,0,Birlasoft
+9,C_110,49,Pune,Data Scientist,22622.3628,4,Health Insurance,Male,0,HCL Technologies
+10,C_111,50,Kolkata,Security Analyst,6993.539994,1,Homeowners Insurance,Male,0,KPIT Technologies
+11,C_112,30,Bengaluru,Cybersecurity Specialist,41746.76676,4,Travel Insurance,Female,0,TCS
+12,C_113,58,Delhi,Network Architect,90224.45222,3,Long-Term Care Insurance,Male,1,Aricent
+13,C_114,59,Pune,System Analyst,94271.49507,0,Travel Insurance,Male,1,KPIT Technologies
+14,C_115,49,Mumbai,Cybersecurity Specialist,31495.02079,7,Life Insurance,Male,0,Oracle Financial Services Software
+15,C_116,43,Indore,Data Scientist,9189.071272,5,Auto Insurance,Female,0,Persistent Systems
+16,C_117,49,Kolkata,Systems Administrator,5949.695934,5,Homeowners Insurance,Female,0,Mindtree
+17,C_118,42,Noida,UI/UX Designer,9018.177664,5,Critical Illness Insurance,Male,0,Mphasis
+18,C_119,33,Pune,Network Engineer,85804.33576,7,Health Insurance,Male,0,Accenture India
+19,C_120,51,Bengaluru,IT Consultant,17902.91941,3,Renters Insurance,Male,0,Capgemini India
+20,C_121,53,Hyderabad,IT Consultant,75732.11121,7,Travel Insurance,Female,1,Tata Elxsi
+21,C_122,34,Delhi,UI/UX Designer,57587.12952,1,Life Insurance,Male,0,Infosys
+22,C_123,38,Noida,Database Administrator,43787.46664,6,Homeowners Insurance,Female,0,QuEST Global
+23,C_124,52,Mumbai,IT Project Manager,26170.49298,1,Health Insurance,Male,1,Genpact
+24,C_125,53,Pune,Cybersecurity Specialist,30591.00369,3,Homeowners Insurance,Female,1,NIIT Technologies
+25,C_126,46,Mumbai,Technical Writer,1629.007372,4,Auto Insurance,Male,0,Oracle Financial Services Software
+26,C_127,31,Hyderabad,System Analyst,95730.23378,5,Disability Insurance,Male,1,Mindtree
+27,C_128,54,Kolkata,Network Engineer,51690.05061,7,Health Insurance,Male,1,Genpact
+28,C_129,44,Chennai,Data Scientist,4575.531124,6,Long-Term Care Insurance,Male,1,Hexaware Technologies
+29,C_130,55,Delhi,IT Support Specialist,64595.48169,4,Life Insurance,Male,0,Oracle Financial Services Software
+30,C_131,59,Indore,Web Developer,57202.77708,2,Disability Insurance,Male,1,Aricent
+31,C_132,37,Bengaluru,Security Analyst,38065.72052,3,Health Insurance,Male,1,Zensar Technologies
+32,C_133,49,Bengaluru,Business Analyst,2993.435314,2,Critical Illness Insurance,Female,1,Polaris Consulting & Services
+33,C_134,33,Kolkata,Software Developer,13791.15082,7,Disability Insurance,Female,1,Tata Elxsi
+34,C_135,41,Kolkata,Technical Writer,60761.73514,5,Long-Term Care Insurance,Male,0,Zensar Technologies
+35,C_136,37,Noida,Systems Administrator,60336.98274,4,Life Insurance,Female,1,HCL Technologies
+36,C_137,53,Hyderabad,Technical Writer,47768.44979,2,Travel Insurance,Male,1,Polaris Consulting & Services
+37,C_138,32,Bengaluru,Database Administrator,94677.54619,3,Health Insurance,Male,1,Wipro
+38,C_139,32,Kolkata,Database Administrator,6270.236238,0,Life Insurance,Male,0,Capgemini India
+39,C_140,56,Bengaluru,Data Scientist,93433.69575,2,Disability Insurance,Male,0,NIIT Technologies
+40,C_141,57,Pune,System Analyst,85906.14647,1,Homeowners Insurance,Female,0,Polaris Consulting & Services
+41,C_142,48,Chennai,IT Project Manager,84298.85375,6,Disability Insurance,Female,0,Persistent Systems
+42,C_143,41,Kolkata,Machine Learning Engineer,55899.39824,4,Life Insurance,Male,1,Mphasis
+43,C_144,39,Bengaluru,UI/UX Designer,8008.677422,2,Renters Insurance,Male,0,Mindtree
+44,C_145,39,Pune,IT Consultant,46020.52068,6,Homeowners Insurance,Male,0,IBM India
+45,C_146,32,Noida,IT Support Specialist,68940.72953,7,Long-Term Care Insurance,Male,1,Aricent
+46,C_147,30,Noida,Network Engineer,64831.30016,6,Homeowners Insurance,Male,0,Genpact
+47,C_148,43,Hyderabad,Software Developer,16736.35261,3,Homeowners Insurance,Female,1,Zensar Technologies
+48,C_149,48,Indore,Database Administrator,1209.116751,3,Life Insurance,Female,0,Lionbridge Technologies
+49,C_150,47,Delhi,Cybersecurity Specialist,42125.50621,3,Renters Insurance,Female,1,Oracle Financial Services Software
+50,C_151,44,Indore,IT Support Specialist,3621.722496,1,Renters Insurance,Female,1,Accenture India
+51,C_152,34,Indore,Software Developer,66471.09555,7,Travel Insurance,Female,1,HCL Technologies
+52,C_153,49,Indore,IT Consultant,17495.92622,7,Auto Insurance,Male,1,NIIT Technologies
+53,C_154,56,Mumbai,DevOps Engineer,20423.46391,5,Life Insurance,Female,1,NIIT Technologies
+54,C_155,50,Hyderabad,Network Engineer,23683.69624,1,Travel Insurance,Male,1,Capgemini India
+55,C_156,41,Kolkata,Systems Administrator,95787.85274,6,Renters Insurance,Female,1,Hexaware Technologies
+56,C_157,49,Indore,Data Scientist,40154.23342,1,Critical Illness Insurance,Female,0,Mphasis
+57,C_158,52,Bengaluru,QA Engineer,88416.01084,7,Disability Insurance,Male,1,Hexaware Technologies
+58,C_159,32,Delhi,Software Developer,47902.91829,7,Life Insurance,Male,1,Mindfire Solutions
+59,C_160,35,Hyderabad,IT Support Specialist,85451.56863,3,Disability Insurance,Female,0,Wipro
+60,C_161,42,Delhi,Network Architect,97520.7721,3,Long-Term Care Insurance,Female,1,HCL Technologies
+61,C_162,42,Noida,Cybersecurity Specialist,9014.191617,3,Renters Insurance,Male,0,Lionbridge Technologies
+62,C_163,36,Noida,Network Architect,5969.44389,1,Auto Insurance,Female,0,Persistent Systems
+63,C_164,40,Noida,Web Developer,36713.82041,1,Travel Insurance,Female,0,Hexaware Technologies
+64,C_165,38,Pune,IT Support Specialist,29721.94104,4,Life Insurance,Male,1,Tech Mahindra
+65,C_166,31,Noida,Network Architect,69903.55515,5,Travel Insurance,Male,0,Cyient
+66,C_167,53,Chennai,Web Developer,91352.44278,5,Renters Insurance,Male,0,Persistent Systems
+67,C_168,57,Hyderabad,Cloud Solutions Architect,98160.86165,0,Disability Insurance,Female,0,Aricent
+68,C_169,32,Delhi,UI/UX Designer,11130.06552,4,Disability Insurance,Female,1,Genpact
+69,C_170,38,Chennai,Cybersecurity Specialist,11674.11565,5,Renters Insurance,Male,1,Accenture India
+70,C_171,43,Ahmedabad,Network Architect,84158.73041,4,Long-Term Care Insurance,Male,0,Aricent
+71,C_172,50,Hyderabad,Business Analyst,19217.56148,7,Disability Insurance,Female,0,Lionbridge Technologies
+72,C_173,45,Indore,Cloud Solutions Architect,80567.87763,5,Critical Illness Insurance,Female,1,IBM India
+73,C_174,33,Noida,Systems Administrator,70720.55155,4,Homeowners Insurance,Female,1,Mindfire Solutions
+74,C_175,43,Hyderabad,Data Scientist,93008.50608,6,Disability Insurance,Male,0,Tata Elxsi
+75,C_176,43,Kolkata,Network Architect,32262.21927,7,Disability Insurance,Female,0,KPIT Technologies
+76,C_177,46,Noida,DevOps Engineer,72430.27473,2,Homeowners Insurance,Female,0,Wipro
+77,C_178,58,Mumbai,Technical Writer,4941.059581,7,Long-Term Care Insurance,Female,1,TCS
+78,C_179,32,Delhi,Network Engineer,61614.61601,0,Homeowners Insurance,Male,0,Mphasis
+79,C_180,33,Bengaluru,Machine Learning Engineer,39355.75486,0,Long-Term Care Insurance,Male,0,Hexaware Technologies
+80,C_181,43,Pune,DevOps Engineer,93343.79991,5,Travel Insurance,Female,1,Cyient
+81,C_182,50,Delhi,Security Analyst,44984.49567,7,Renters Insurance,Male,1,Cyient
+82,C_183,40,Chennai,IT Consultant,30271.78666,7,Disability Insurance,Male,1,KPIT Technologies
+83,C_184,55,Pune,IT Project Manager,90786.59484,3,Travel Insurance,Male,0,Oracle Financial Services Software
+84,C_185,48,Indore,Technical Writer,92311.93639,4,Long-Term Care Insurance,Male,0,Genpact
+85,C_186,45,Pune,Technical Writer,65604.38857,6,Long-Term Care Insurance,Female,0,Birlasoft
+86,C_187,30,Ahmedabad,Business Analyst,87411.32995,7,Renters Insurance,Female,1,Genpact
+87,C_188,43,Chennai,Software Developer,77369.59378,6,Long-Term Care Insurance,Female,0,Mindtree
+88,C_189,40,Noida,Data Scientist,80961.72161,2,Renters Insurance,Female,0,Accenture India
+89,C_190,54,Bengaluru,Software Developer,36785.58002,1,Health Insurance,Male,1,Mindfire Solutions
+90,C_191,50,Mumbai,Cloud Solutions Architect,16106.83049,0,Critical Illness Insurance,Male,1,Mindtree
+91,C_192,46,Chennai,UI/UX Designer,41052.42524,5,Renters Insurance,Male,1,HCL Technologies
+92,C_193,49,Pune,Machine Learning Engineer,41587.66131,4,Auto Insurance,Female,0,Aricent
+93,C_194,59,Indore,Security Analyst,60495.00148,3,Health Insurance,Female,1,Persistent Systems
+94,C_195,48,Bengaluru,Technical Writer,44503.62302,1,Disability Insurance,Female,1,Mindfire Solutions
+95,C_196,54,Delhi,UI/UX Designer,99031.62763,0,Long-Term Care Insurance,Female,0,Polaris Consulting & Services
+96,C_197,44,Delhi,Database Administrator,77083.70303,4,Long-Term Care Insurance,Female,1,Persistent Systems
+97,C_198,41,Ahmedabad,Data Scientist,50942.15449,0,Auto Insurance,Female,1,Accenture India
+98,C_199,55,Mumbai,Cybersecurity Specialist,63699.45438,5,Disability Insurance,Male,1,HCL Technologies
+99,C_200,35,Chennai,QA Engineer,4449.203679,2,Travel Insurance,Female,0,Lionbridge Technologies
+100,C_201,34,Chennai,Technical Writer,82777.19224,6,Travel Insurance,Female,0,Polaris Consulting & Services
+101,C_202,53,Kolkata,IT Project Manager,30635.66272,6,Long-Term Care Insurance,Male,0,QuEST Global
+102,C_203,57,Hyderabad,Web Developer,69446.92164,5,Life Insurance,Male,1,Birlasoft
+103,C_204,56,Chennai,Cybersecurity Specialist,49292.86605,5,Critical Illness Insurance,Male,0,NIIT Technologies
+104,C_205,56,Kolkata,System Analyst,53470.84406,2,Disability Insurance,Male,1,TCS
+105,C_206,35,Chennai,IT Project Manager,35667.95131,6,Critical Illness Insurance,Male,1,Tech Mahindra
+106,C_207,38,Noida,Security Analyst,6109.07548,6,Life Insurance,Male,0,QuEST Global
+107,C_208,35,Ahmedabad,DevOps Engineer,89042.16407,2,Renters Insurance,Male,0,Cyient
+108,C_209,46,Mumbai,IT Consultant,40385.41245,1,Renters Insurance,Male,1,Capgemini India
+109,C_210,31,Indore,IT Project Manager,87015.74854,2,Long-Term Care Insurance,Female,1,HCL Technologies
+110,C_211,39,Bengaluru,Security Analyst,17373.12458,0,Homeowners Insurance,Female,1,Hexaware Technologies
+111,C_212,33,Mumbai,Network Architect,56306.77097,7,Auto Insurance,Male,0,Infosys
+112,C_213,45,Hyderabad,System Analyst,24465.93503,4,Renters Insurance,Male,0,Tata Elxsi
+113,C_214,51,Ahmedabad,System Analyst,99053.61123,5,Health Insurance,Male,0,Hexaware Technologies
+114,C_215,54,Ahmedabad,Web Developer,77691.00051,5,Long-Term Care Insurance,Male,0,Hexaware Technologies
+115,C_216,57,Chennai,Database Administrator,7855.874561,7,Disability Insurance,Female,1,Lionbridge Technologies
+116,C_217,55,Mumbai,Database Administrator,98112.9111,1,Homeowners Insurance,Female,0,Tata Elxsi
+117,C_218,36,Pune,Software Developer,32145.615,5,Homeowners Insurance,Female,0,Birlasoft
+118,C_219,38,Chennai,Systems Administrator,31345.54323,0,Auto Insurance,Female,1,QuEST Global
+119,C_220,47,Pune,UI/UX Designer,43984.93751,2,Renters Insurance,Male,0,Polaris Consulting & Services
+120,C_221,57,Mumbai,UI/UX Designer,87676.14454,2,Homeowners Insurance,Female,1,KPIT Technologies
+121,C_222,56,Ahmedabad,Technical Writer,61143.57625,2,Long-Term Care Insurance,Female,0,Cognizant
+122,C_223,40,Bengaluru,Technical Writer,39673.65782,1,Life Insurance,Male,1,IBM India
+123,C_224,30,Pune,Cloud Solutions Architect,26023.36863,7,Travel Insurance,Female,1,NIIT Technologies
+124,C_225,54,Hyderabad,UI/UX Designer,28730.37576,5,Long-Term Care Insurance,Male,1,Tech Mahindra
+125,C_226,39,Bengaluru,UI/UX Designer,53116.50797,4,Disability Insurance,Male,1,IBM India
+126,C_227,41,Chennai,DevOps Engineer,42013.81248,1,Critical Illness Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+127,C_228,42,Noida,Network Architect,80138.85339,3,Critical Illness Insurance,Female,1,Mphasis
+128,C_229,44,Chennai,Business Analyst,23499.97507,4,Life Insurance,Female,0,Hexaware Technologies
+129,C_230,39,Ahmedabad,IT Project Manager,85082.91506,3,Homeowners Insurance,Male,1,Mphasis
+130,C_231,54,Hyderabad,Systems Administrator,37370.5345,3,Auto Insurance,Male,1,Infosys
+131,C_232,54,Kolkata,Software Developer,80689.58629,6,Life Insurance,Female,0,Mindfire Solutions
+132,C_233,58,Indore,UI/UX Designer,13398.80438,0,Health Insurance,Male,0,Zensar Technologies
+133,C_234,58,Delhi,UI/UX Designer,26541.10104,5,Critical Illness Insurance,Female,0,Larsen & Toubro Infotech (LTI)
+134,C_235,56,Noida,Data Scientist,89195.76557,6,Auto Insurance,Male,0,Infosys
+135,C_236,37,Mumbai,Network Architect,48283.30173,7,Long-Term Care Insurance,Female,0,IBM India
+136,C_237,31,Mumbai,Network Engineer,3069.444288,4,Critical Illness Insurance,Male,1,TCS
+137,C_238,40,Mumbai,Web Developer,95666.08459,2,Travel Insurance,Female,0,Mindfire Solutions
+138,C_239,57,Bengaluru,Technical Writer,17877.01226,5,Renters Insurance,Male,0,HCL Technologies
+139,C_240,33,Kolkata,IT Support Specialist,40441.45069,2,Renters Insurance,Female,0,Lionbridge Technologies
+140,C_241,41,Indore,IT Support Specialist,31058.84498,5,Homeowners Insurance,Male,0,Mphasis
+141,C_242,58,Kolkata,Technical Writer,70960.21689,6,Renters Insurance,Male,1,Mindtree
+142,C_243,41,Hyderabad,Network Architect,56662.22545,4,Homeowners Insurance,Male,0,Hexaware Technologies
+143,C_244,46,Delhi,Cybersecurity Specialist,86163.0737,3,Disability Insurance,Male,0,NIIT Technologies
+144,C_245,47,Bengaluru,Cloud Solutions Architect,79867.61702,2,Long-Term Care Insurance,Male,0,HCL Technologies
+145,C_246,34,Delhi,Business Analyst,88379.79304,2,Disability Insurance,Female,1,Birlasoft
+146,C_247,41,Pune,Data Scientist,50766.12447,5,Long-Term Care Insurance,Male,1,Accenture India
+147,C_248,38,Mumbai,Network Engineer,65763.71092,6,Health Insurance,Male,1,NIIT Technologies
+148,C_249,47,Pune,Database Administrator,91760.04052,1,Life Insurance,Male,1,Hexaware Technologies
+149,C_250,43,Noida,UI/UX Designer,23308.87517,5,Homeowners Insurance,Male,1,Zensar Technologies
+150,C_251,53,Delhi,System Analyst,63905.40143,7,Homeowners Insurance,Male,1,Wipro
+151,C_252,45,Bengaluru,Technical Writer,90363.44928,4,Homeowners Insurance,Female,1,Zensar Technologies
+152,C_253,38,Pune,Security Analyst,32246.52031,2,Auto Insurance,Female,1,Hexaware Technologies
+153,C_254,45,Kolkata,IT Consultant,44373.39545,6,Auto Insurance,Male,1,Capgemini India
+154,C_255,52,Bengaluru,IT Support Specialist,56001.89974,7,Travel Insurance,Female,1,Aricent
+155,C_256,41,Indore,Network Architect,53149.61038,2,Auto Insurance,Male,0,Cyient
+156,C_257,43,Kolkata,IT Support Specialist,23798.95138,1,Long-Term Care Insurance,Male,1,Capgemini India
+157,C_258,56,Mumbai,Software Developer,33351.51793,3,Life Insurance,Female,0,Accenture India
+158,C_259,46,Ahmedabad,Web Developer,61242.22075,2,Travel Insurance,Female,0,Cyient
+159,C_260,30,Kolkata,IT Support Specialist,79215.94781,6,Long-Term Care Insurance,Male,1,Infosys
+160,C_261,52,Kolkata,Business Analyst,78959.27028,7,Homeowners Insurance,Male,1,Mindtree
+161,C_262,45,Chennai,Software Developer,86695.99642,5,Long-Term Care Insurance,Male,1,NIIT Technologies
+162,C_263,48,Chennai,DevOps Engineer,55496.90415,4,Auto Insurance,Female,1,Tech Mahindra
+163,C_264,54,Noida,Software Developer,11188.45401,5,Renters Insurance,Female,0,Persistent Systems
+164,C_265,39,Mumbai,Business Analyst,46106.50818,7,Life Insurance,Male,1,Aricent
+165,C_266,38,Chennai,Network Engineer,84888.08778,3,Critical Illness Insurance,Female,1,Genpact
+166,C_267,52,Indore,IT Consultant,80336.80294,3,Health Insurance,Male,0,Larsen & Toubro Infotech (LTI)
+167,C_268,59,Bengaluru,Machine Learning Engineer,75479.88755,4,Disability Insurance,Male,1,Mphasis
+168,C_269,59,Kolkata,Database Administrator,67078.95466,2,Life Insurance,Female,0,QuEST Global
+169,C_270,32,Ahmedabad,Cloud Solutions Architect,37306.277,7,Auto Insurance,Female,1,TCS
+170,C_271,42,Mumbai,Cloud Solutions Architect,54991.95719,3,Renters Insurance,Male,1,Tech Mahindra
+171,C_272,50,Delhi,Technical Writer,9657.039462,5,Renters Insurance,Male,0,NIIT Technologies
+172,C_273,47,Kolkata,Database Administrator,84292.29071,4,Health Insurance,Male,1,Accenture India
+173,C_274,56,Ahmedabad,Cybersecurity Specialist,87928.82041,3,Travel Insurance,Male,0,Tata Elxsi
+174,C_275,45,Delhi,Business Analyst,12112.31658,7,Renters Insurance,Female,1,Aricent
+175,C_276,53,Chennai,Business Analyst,91960.31268,1,Auto Insurance,Female,0,Tech Mahindra
+176,C_277,43,Noida,DevOps Engineer,56722.305,4,Health Insurance,Female,1,Birlasoft
+177,C_278,40,Mumbai,Machine Learning Engineer,55763.66484,0,Homeowners Insurance,Female,1,Genpact
+178,C_279,51,Delhi,Cloud Solutions Architect,8926.391933,7,Travel Insurance,Female,0,Infosys
+179,C_280,57,Noida,IT Consultant,88921.80657,3,Travel Insurance,Male,0,Mphasis
+180,C_281,52,Indore,Data Scientist,70668.17948,3,Homeowners Insurance,Female,0,TCS
+181,C_282,41,Hyderabad,Systems Administrator,45370.97034,2,Renters Insurance,Female,0,Cyient
+182,C_283,59,Chennai,QA Engineer,89408.09104,7,Long-Term Care Insurance,Female,1,Birlasoft
+183,C_284,46,Bengaluru,QA Engineer,28739.01208,1,Travel Insurance,Male,1,Capgemini India
+184,C_285,58,Hyderabad,Cybersecurity Specialist,37562.63677,7,Critical Illness Insurance,Female,0,Capgemini India
+185,C_286,48,Chennai,Cloud Solutions Architect,7056.537324,7,Critical Illness Insurance,Male,1,QuEST Global
+186,C_287,57,Delhi,Cybersecurity Specialist,33311.53508,6,Disability Insurance,Male,0,Wipro
+187,C_288,36,Mumbai,Machine Learning Engineer,26378.06029,0,Long-Term Care Insurance,Male,0,Mphasis
+188,C_289,51,Noida,Network Engineer,9367.344377,6,Life Insurance,Female,0,Infosys
+189,C_290,33,Mumbai,Network Architect,13060.93362,2,Travel Insurance,Female,0,QuEST Global
+190,C_291,52,Bengaluru,Technical Writer,67525.84478,4,Disability Insurance,Female,1,IBM India
+191,C_292,48,Ahmedabad,Web Developer,27606.93265,0,Life Insurance,Male,1,Hexaware Technologies
+192,C_293,51,Pune,Software Developer,57917.94145,1,Disability Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+193,C_294,31,Hyderabad,Business Analyst,85592.8401,4,Long-Term Care Insurance,Male,1,Oracle Financial Services Software
+194,C_295,57,Bengaluru,Machine Learning Engineer,55993.6068,7,Disability Insurance,Female,0,NIIT Technologies
+195,C_296,51,Bengaluru,Security Analyst,53384.62622,1,Disability Insurance,Female,0,IBM India
+196,C_297,44,Pune,Data Scientist,62382.18523,3,Travel Insurance,Female,1,Capgemini India
+197,C_298,40,Ahmedabad,QA Engineer,55144.63203,5,Life Insurance,Female,1,Oracle Financial Services Software
+198,C_299,47,Delhi,IT Consultant,18691.83321,6,Long-Term Care Insurance,Female,1,Wipro
+199,C_300,35,Hyderabad,Software Developer,92660.0253,4,Renters Insurance,Male,1,Mindfire Solutions
+200,C_301,31,Indore,IT Support Specialist,74177.15948,2,Renters Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+201,C_302,59,Chennai,Cybersecurity Specialist,47573.44165,0,Homeowners Insurance,Female,0,Polaris Consulting & Services
+202,C_303,36,Pune,System Analyst,30621.76064,4,Disability Insurance,Female,1,NIIT Technologies
+203,C_304,48,Delhi,IT Consultant,67562.86114,0,Travel Insurance,Male,0,HCL Technologies
+204,C_305,33,Noida,Data Scientist,56292.67546,4,Auto Insurance,Female,1,IBM India
+205,C_306,35,Delhi,Network Engineer,11092.10099,1,Critical Illness Insurance,Female,0,Genpact
+206,C_307,32,Pune,Network Engineer,14676.94093,6,Long-Term Care Insurance,Female,1,Zensar Technologies
+207,C_308,45,Bengaluru,Data Scientist,67814.00734,7,Long-Term Care Insurance,Male,1,Cyient
+208,C_309,53,Delhi,Cybersecurity Specialist,82237.98308,6,Renters Insurance,Female,0,Wipro
+209,C_310,41,Bengaluru,Software Developer,21414.85615,6,Health Insurance,Female,0,IBM India
+210,C_311,47,Ahmedabad,QA Engineer,67583.97655,0,Auto Insurance,Female,1,QuEST Global
+211,C_312,45,Indore,Systems Administrator,3589.170559,6,Health Insurance,Male,0,Persistent Systems
+212,C_313,33,Noida,System Analyst,31766.98368,7,Renters Insurance,Male,1,Birlasoft
+213,C_314,36,Ahmedabad,Network Architect,96122.10505,7,Travel Insurance,Female,1,Capgemini India
+214,C_315,44,Pune,UI/UX Designer,12307.21301,3,Travel Insurance,Female,1,Accenture India
+215,C_316,45,Hyderabad,UI/UX Designer,9878.777184,1,Disability Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+216,C_317,42,Delhi,Network Engineer,66004.31421,6,Travel Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+217,C_318,59,Ahmedabad,DevOps Engineer,67689.46423,3,Auto Insurance,Female,1,IBM India
+218,C_319,40,Noida,DevOps Engineer,19889.40808,7,Life Insurance,Female,1,HCL Technologies
+219,C_320,37,Ahmedabad,IT Support Specialist,45590.92016,4,Travel Insurance,Female,1,Lionbridge Technologies
+220,C_321,41,Ahmedabad,Technical Writer,96184.88905,6,Renters Insurance,Female,0,Lionbridge Technologies
+221,C_322,35,Bengaluru,IT Support Specialist,97076.36003,5,Long-Term Care Insurance,Male,0,IBM India
+222,C_323,57,Noida,Technical Writer,17599.49986,1,Auto Insurance,Male,0,Infosys
+223,C_324,32,Kolkata,Database Administrator,56474.87359,3,Homeowners Insurance,Female,1,IBM India
+224,C_325,32,Hyderabad,Machine Learning Engineer,58964.57842,6,Life Insurance,Female,0,Mindtree
+225,C_326,56,Delhi,Business Analyst,8376.838808,7,Auto Insurance,Female,0,Tata Elxsi
+226,C_327,36,Noida,UI/UX Designer,9960.395389,5,Disability Insurance,Male,1,Genpact
+227,C_328,45,Noida,IT Project Manager,53992.76384,3,Life Insurance,Female,0,Wipro
+228,C_329,56,Kolkata,IT Project Manager,5805.733429,0,Auto Insurance,Male,0,Infosys
+229,C_330,30,Chennai,Web Developer,21951.19678,7,Critical Illness Insurance,Male,0,Persistent Systems
+230,C_331,47,Kolkata,Technical Writer,83744.70934,7,Travel Insurance,Male,0,Mindtree
+231,C_332,55,Noida,IT Support Specialist,12663.56804,6,Disability Insurance,Male,1,Polaris Consulting & Services
+232,C_333,48,Mumbai,Data Scientist,8281.080278,3,Life Insurance,Female,1,Tata Elxsi
+233,C_334,39,Indore,Web Developer,57698.11369,2,Disability Insurance,Male,1,Mphasis
+234,C_335,44,Ahmedabad,Software Developer,84222.28793,6,Homeowners Insurance,Male,0,NIIT Technologies
+235,C_336,41,Delhi,Security Analyst,10904.13404,7,Travel Insurance,Female,1,Polaris Consulting & Services
+236,C_337,55,Mumbai,QA Engineer,20657.12045,6,Homeowners Insurance,Male,0,QuEST Global
+237,C_338,53,Chennai,Cybersecurity Specialist,26709.46504,7,Travel Insurance,Female,0,QuEST Global
+238,C_339,53,Noida,Security Analyst,29084.84753,5,Life Insurance,Male,0,Genpact
+239,C_340,53,Pune,IT Consultant,1351.275592,2,Homeowners Insurance,Female,1,TCS
+240,C_341,38,Pune,Network Architect,52038.96105,3,Auto Insurance,Female,0,TCS
+241,C_342,46,Delhi,Data Scientist,37718.94082,7,Long-Term Care Insurance,Female,1,Cyient
+242,C_343,30,Kolkata,Data Scientist,52741.2941,6,Auto Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+243,C_344,54,Bengaluru,Data Scientist,50420.69689,5,Auto Insurance,Female,0,Mindfire Solutions
+244,C_345,57,Hyderabad,Network Architect,95851.79648,5,Long-Term Care Insurance,Female,1,Larsen & Toubro Infotech (LTI)
+245,C_346,39,Delhi,Systems Administrator,70821.62833,2,Critical Illness Insurance,Female,0,Infosys
+246,C_347,57,Noida,QA Engineer,70509.86988,5,Critical Illness Insurance,Female,0,Infosys
+247,C_348,42,Mumbai,Machine Learning Engineer,46913.05324,4,Travel Insurance,Male,0,NIIT Technologies
+248,C_349,38,Bengaluru,Cloud Solutions Architect,16450.99471,1,Travel Insurance,Male,1,Mindtree
+249,C_350,32,Indore,Network Architect,35804.45783,3,Health Insurance,Female,0,Birlasoft
+250,C_351,50,Mumbai,Systems Administrator,84325.50138,4,Long-Term Care Insurance,Female,1,Oracle Financial Services Software
+251,C_352,44,Indore,Machine Learning Engineer,25924.13785,6,Renters Insurance,Male,1,Aricent
+252,C_353,55,Delhi,Software Developer,70347.28971,3,Disability Insurance,Female,0,TCS
+253,C_354,42,Noida,Network Architect,97154.23733,2,Critical Illness Insurance,Male,1,Capgemini India
+254,C_355,43,Delhi,Network Architect,25558.69117,2,Disability Insurance,Female,0,HCL Technologies
+255,C_356,35,Chennai,Systems Administrator,85960.11352,2,Disability Insurance,Male,0,Tech Mahindra
+256,C_357,36,Kolkata,UI/UX Designer,40144.45859,1,Renters Insurance,Female,1,HCL Technologies
+257,C_358,36,Chennai,Machine Learning Engineer,20830.48225,4,Renters Insurance,Female,1,IBM India
+258,C_359,51,Mumbai,Software Developer,53969.51053,4,Disability Insurance,Male,0,TCS
+259,C_360,30,Delhi,IT Consultant,2401.514633,7,Health Insurance,Female,0,IBM India
+260,C_361,51,Chennai,Technical Writer,84389.7547,2,Auto Insurance,Male,0,Cyient
+261,C_362,49,Indore,Machine Learning Engineer,95597.71763,7,Life Insurance,Male,1,Zensar Technologies
+262,C_363,41,Mumbai,Network Engineer,55157.57107,3,Life Insurance,Female,0,Capgemini India
+263,C_364,57,Pune,QA Engineer,60108.32042,3,Long-Term Care Insurance,Female,0,Mphasis
+264,C_365,42,Mumbai,Data Scientist,72023.07056,6,Health Insurance,Male,0,Cyient
+265,C_366,41,Mumbai,Machine Learning Engineer,2162.636706,7,Life Insurance,Male,1,Cognizant
+266,C_367,40,Ahmedabad,DevOps Engineer,56977.72622,5,Auto Insurance,Female,1,Wipro
+267,C_368,36,Indore,QA Engineer,39421.94195,7,Health Insurance,Female,1,Tata Elxsi
+268,C_369,47,Noida,Data Scientist,17786.74356,0,Long-Term Care Insurance,Male,0,Mphasis
+269,C_370,50,Kolkata,Database Administrator,53808.44986,6,Travel Insurance,Female,0,Tech Mahindra
+270,C_371,34,Noida,Database Administrator,34882.66229,5,Auto Insurance,Male,1,Polaris Consulting & Services
+271,C_372,55,Delhi,Network Architect,24026.59794,1,Life Insurance,Female,1,Larsen & Toubro Infotech (LTI)
+272,C_373,49,Mumbai,Web Developer,56243.36621,1,Long-Term Care Insurance,Female,1,Mindfire Solutions
+273,C_374,42,Noida,IT Support Specialist,81612.99888,6,Long-Term Care Insurance,Male,1,Accenture India
+274,C_375,53,Indore,Technical Writer,26129.28892,5,Life Insurance,Male,0,KPIT Technologies
+275,C_376,40,Bengaluru,QA Engineer,16827.60366,3,Auto Insurance,Male,0,QuEST Global
+276,C_377,49,Bengaluru,Database Administrator,99664.67827,6,Long-Term Care Insurance,Female,0,Birlasoft
+277,C_378,39,Hyderabad,Network Engineer,93946.99484,2,Long-Term Care Insurance,Female,0,Zensar Technologies
+278,C_379,33,Pune,Systems Administrator,80124.4435,2,Life Insurance,Female,1,Cyient
+279,C_380,38,Delhi,Web Developer,43823.97498,1,Long-Term Care Insurance,Female,1,Tech Mahindra
+280,C_381,46,Ahmedabad,Software Developer,65959.1473,7,Long-Term Care Insurance,Male,1,Capgemini India
+281,C_382,56,Mumbai,DevOps Engineer,23733.20509,5,Auto Insurance,Female,1,Zensar Technologies
+282,C_383,42,Delhi,System Analyst,45994.35142,2,Disability Insurance,Female,1,Wipro
+283,C_384,35,Delhi,Network Engineer,71882.30358,0,Travel Insurance,Female,0,Polaris Consulting & Services
+284,C_385,49,Delhi,DevOps Engineer,43399.75692,2,Auto Insurance,Male,0,Oracle Financial Services Software
+285,C_386,58,Delhi,Cloud Solutions Architect,14615.88476,6,Disability Insurance,Female,0,Birlasoft
+286,C_387,52,Bengaluru,Web Developer,14557.64864,2,Auto Insurance,Male,1,Infosys
+287,C_388,50,Noida,Cybersecurity Specialist,49262.89484,5,Renters Insurance,Female,1,Aricent
+288,C_389,52,Delhi,Network Architect,83282.32794,4,Long-Term Care Insurance,Male,0,Mphasis
+289,C_390,36,Noida,UI/UX Designer,66877.90413,5,Long-Term Care Insurance,Female,0,HCL Technologies
+290,C_391,31,Ahmedabad,UI/UX Designer,30120.00739,2,Travel Insurance,Male,0,IBM India
+291,C_392,41,Noida,Web Developer,3001.855076,0,Renters Insurance,Female,1,NIIT Technologies
+292,C_393,58,Indore,Systems Administrator,50662.65499,1,Renters Insurance,Male,0,Birlasoft
+293,C_394,33,Hyderabad,Network Architect,1293.187843,7,Disability Insurance,Female,1,Mindtree
+294,C_395,57,Ahmedabad,QA Engineer,94321.31377,5,Long-Term Care Insurance,Female,0,Cyient
+295,C_396,45,Chennai,UI/UX Designer,23826.77761,0,Critical Illness Insurance,Female,1,Lionbridge Technologies
+296,C_397,32,Hyderabad,Cybersecurity Specialist,18879.50824,4,Disability Insurance,Female,0,Mindtree
+297,C_398,54,Chennai,Database Administrator,51372.10142,1,Critical Illness Insurance,Male,1,Zensar Technologies
+298,C_399,46,Bengaluru,Machine Learning Engineer,39915.99489,1,Life Insurance,Female,1,Tech Mahindra
+299,C_400,40,Delhi,Database Administrator,4780.270213,5,Life Insurance,Female,0,Wipro
+300,C_401,39,Pune,Database Administrator,25475.25852,1,Health Insurance,Female,0,Mindtree
+301,C_402,48,Kolkata,Web Developer,66654.2223,3,Renters Insurance,Female,0,Cyient
+302,C_403,57,Bengaluru,IT Support Specialist,6275.066807,5,Health Insurance,Male,0,TCS
+303,C_404,30,Indore,Systems Administrator,46447.13634,3,Travel Insurance,Male,1,Cognizant
+304,C_405,47,Chennai,Data Scientist,15231.74721,0,Homeowners Insurance,Male,1,Genpact
+305,C_406,33,Kolkata,QA Engineer,82701.33354,2,Long-Term Care Insurance,Male,0,Hexaware Technologies
+306,C_407,31,Chennai,Web Developer,35790.38114,3,Long-Term Care Insurance,Female,0,Infosys
+307,C_408,54,Kolkata,Network Engineer,95241.03933,6,Critical Illness Insurance,Male,0,Cyient
+308,C_409,57,Kolkata,UI/UX Designer,55100.26389,2,Critical Illness Insurance,Male,1,IBM India
+309,C_410,44,Ahmedabad,Software Developer,91112.52842,3,Critical Illness Insurance,Female,0,Wipro
+310,C_411,52,Mumbai,DevOps Engineer,55230.95516,7,Auto Insurance,Female,0,Larsen & Toubro Infotech (LTI)
+311,C_412,34,Noida,Machine Learning Engineer,67064.18371,7,Health Insurance,Female,0,Wipro
+312,C_413,55,Indore,QA Engineer,83742.30432,1,Long-Term Care Insurance,Female,1,KPIT Technologies
+313,C_414,39,Noida,Machine Learning Engineer,36254.75053,0,Disability Insurance,Male,0,Lionbridge Technologies
+314,C_415,49,Mumbai,Data Scientist,58384.68158,0,Long-Term Care Insurance,Female,0,Lionbridge Technologies
+315,C_416,43,Chennai,Software Developer,95569.37472,4,Health Insurance,Female,1,Aricent
+316,C_417,43,Mumbai,Network Engineer,87996.18801,0,Renters Insurance,Female,0,Capgemini India
+317,C_418,59,Delhi,Network Engineer,7008.216392,6,Homeowners Insurance,Female,0,Wipro
+318,C_419,55,Kolkata,Web Developer,39317.89413,2,Homeowners Insurance,Female,0,Polaris Consulting & Services
+319,C_420,45,Pune,IT Support Specialist,21451.35132,5,Long-Term Care Insurance,Male,0,IBM India
+320,C_421,51,Indore,DevOps Engineer,74862.8802,1,Renters Insurance,Male,0,Lionbridge Technologies
+321,C_422,55,Mumbai,IT Support Specialist,95922.65392,0,Renters Insurance,Male,0,Polaris Consulting & Services
+322,C_423,30,Chennai,UI/UX Designer,33588.5362,5,Disability Insurance,Male,0,TCS
+323,C_424,40,Chennai,Business Analyst,2364.338038,3,Homeowners Insurance,Male,0,Tech Mahindra
+324,C_425,44,Ahmedabad,Data Scientist,58497.82728,4,Renters Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+325,C_426,57,Bengaluru,Network Engineer,9567.536556,5,Auto Insurance,Male,1,Accenture India
+326,C_427,56,Pune,IT Consultant,8766.574177,7,Auto Insurance,Male,1,Wipro
+327,C_428,59,Hyderabad,Web Developer,40608.78289,2,Travel Insurance,Female,0,Zensar Technologies
+328,C_429,54,Noida,IT Project Manager,23911.94877,7,Life Insurance,Male,0,Tech Mahindra
+329,C_430,45,Kolkata,Network Architect,28913.96863,5,Disability Insurance,Female,0,Capgemini India
+330,C_431,33,Kolkata,Systems Administrator,89938.81512,3,Life Insurance,Male,1,TCS
+331,C_432,52,Ahmedabad,UI/UX Designer,63968.03976,1,Travel Insurance,Female,1,TCS
+332,C_433,39,Pune,Web Developer,76649.92617,2,Travel Insurance,Male,0,Infosys
+333,C_434,45,Mumbai,IT Support Specialist,95766.07487,5,Long-Term Care Insurance,Female,0,Tech Mahindra
+334,C_435,41,Hyderabad,Network Architect,81135.72343,7,Travel Insurance,Male,1,Mindfire Solutions
+335,C_436,32,Bengaluru,IT Project Manager,90198.8805,3,Travel Insurance,Male,0,Tata Elxsi
+336,C_437,36,Noida,Systems Administrator,23590.53284,1,Disability Insurance,Female,0,Lionbridge Technologies
+337,C_438,31,Pune,Data Scientist,54420.95569,2,Renters Insurance,Male,0,QuEST Global
+338,C_439,50,Ahmedabad,IT Project Manager,88417.26371,2,Critical Illness Insurance,Female,0,Genpact
+339,C_440,52,Chennai,DevOps Engineer,90772.42553,4,Life Insurance,Male,0,Aricent
+340,C_441,49,Bengaluru,Software Developer,12620.81227,6,Renters Insurance,Male,1,Mindfire Solutions
+341,C_442,55,Indore,IT Support Specialist,76054.74904,0,Travel Insurance,Female,0,Capgemini India
+342,C_443,30,Indore,Business Analyst,66433.18226,3,Disability Insurance,Female,1,Polaris Consulting & Services
+343,C_444,34,Noida,IT Support Specialist,32794.15817,0,Health Insurance,Female,0,KPIT Technologies
+344,C_445,55,Delhi,Network Architect,66439.05693,3,Renters Insurance,Male,1,KPIT Technologies
+345,C_446,48,Pune,UI/UX Designer,49043.63069,4,Auto Insurance,Male,1,Tech Mahindra
+346,C_447,44,Hyderabad,Cloud Solutions Architect,87346.69784,3,Long-Term Care Insurance,Male,1,NIIT Technologies
+347,C_448,42,Noida,Technical Writer,84072.40249,4,Critical Illness Insurance,Female,0,Cyient
+348,C_449,43,Chennai,Cloud Solutions Architect,78971.91174,4,Critical Illness Insurance,Male,1,Mphasis
+349,C_450,35,Noida,IT Consultant,22552.07663,5,Renters Insurance,Male,1,TCS
+350,C_451,46,Bengaluru,Business Analyst,4424.317408,4,Long-Term Care Insurance,Female,1,Accenture India
+351,C_452,30,Mumbai,IT Support Specialist,60978.93455,5,Health Insurance,Male,1,HCL Technologies
+352,C_453,59,Mumbai,Database Administrator,64906.75204,7,Life Insurance,Male,0,QuEST Global
+353,C_454,42,Pune,UI/UX Designer,81863.76374,6,Auto Insurance,Male,1,Tech Mahindra
+354,C_455,56,Bengaluru,QA Engineer,20447.3293,1,Auto Insurance,Male,0,Hexaware Technologies
+355,C_456,49,Indore,IT Support Specialist,12932.48393,0,Travel Insurance,Female,1,IBM India
+356,C_457,57,Ahmedabad,IT Consultant,57291.88488,5,Disability Insurance,Male,0,Genpact
+357,C_458,40,Indore,IT Support Specialist,49426.60411,0,Long-Term Care Insurance,Female,1,Tata Elxsi
+358,C_459,55,Delhi,Network Engineer,17392.41276,1,Renters Insurance,Male,1,QuEST Global
+359,C_460,36,Bengaluru,Technical Writer,78824.86693,0,Life Insurance,Female,0,Tata Elxsi
+360,C_461,33,Ahmedabad,Data Scientist,28973.49316,2,Auto Insurance,Female,0,TCS
+361,C_462,53,Bengaluru,Data Scientist,95178.76082,0,Auto Insurance,Female,1,Infosys
+362,C_463,48,Indore,IT Support Specialist,8401.172253,1,Life Insurance,Male,1,Accenture India
+363,C_464,53,Delhi,Security Analyst,39401.49355,4,Life Insurance,Male,1,Aricent
+364,C_465,51,Chennai,Business Analyst,87667.73055,4,Life Insurance,Male,0,Hexaware Technologies
+365,C_466,57,Hyderabad,Data Scientist,12716.18095,1,Disability Insurance,Male,1,IBM India
+366,C_467,32,Kolkata,QA Engineer,45574.97288,5,Travel Insurance,Female,0,Tech Mahindra
+367,C_468,58,Chennai,Systems Administrator,99335.64318,7,Disability Insurance,Female,1,Capgemini India
+368,C_469,37,Delhi,IT Consultant,70122.78918,4,Life Insurance,Male,1,Genpact
+369,C_470,59,Kolkata,IT Consultant,24772.08779,0,Auto Insurance,Male,0,Cyient
+370,C_471,55,Bengaluru,IT Support Specialist,89836.85428,0,Disability Insurance,Female,1,Mindfire Solutions
+371,C_472,44,Indore,Technical Writer,25829.49787,4,Critical Illness Insurance,Male,1,TCS
+372,C_473,48,Kolkata,Network Architect,52027.37492,5,Critical Illness Insurance,Female,0,Polaris Consulting & Services
+373,C_474,57,Delhi,DevOps Engineer,74381.97554,7,Critical Illness Insurance,Female,0,Hexaware Technologies
+374,C_475,38,Hyderabad,Data Scientist,27354.9365,4,Life Insurance,Male,0,Mindfire Solutions
+375,C_476,56,Indore,Software Developer,16865.67554,2,Auto Insurance,Male,0,Polaris Consulting & Services
+376,C_477,41,Bengaluru,Cybersecurity Specialist,67078.61844,3,Disability Insurance,Male,1,NIIT Technologies
+377,C_478,32,Hyderabad,Technical Writer,37599.41455,3,Disability Insurance,Female,1,IBM India
+378,C_479,33,Bengaluru,Systems Administrator,60860.46339,3,Homeowners Insurance,Male,0,Hexaware Technologies
+379,C_480,50,Indore,Machine Learning Engineer,67558.75757,1,Life Insurance,Female,1,Persistent Systems
+380,C_481,31,Indore,Network Architect,85183.3427,6,Critical Illness Insurance,Male,0,Cognizant
+381,C_482,34,Bengaluru,Systems Administrator,76212.32875,4,Long-Term Care Insurance,Male,1,TCS
+382,C_483,52,Hyderabad,IT Support Specialist,52018.21185,4,Homeowners Insurance,Male,1,Infosys
+383,C_484,36,Hyderabad,Systems Administrator,30180.18361,3,Health Insurance,Male,1,Mindtree
+384,C_485,41,Hyderabad,System Analyst,5621.766984,0,Disability Insurance,Female,1,Mindfire Solutions
+385,C_486,59,Kolkata,Network Architect,4103.814961,4,Long-Term Care Insurance,Female,0,QuEST Global
+386,C_487,39,Hyderabad,Network Architect,72829.77567,6,Life Insurance,Male,1,Accenture India
+387,C_488,32,Delhi,Data Scientist,65214.90111,7,Disability Insurance,Female,0,Oracle Financial Services Software
+388,C_489,48,Chennai,IT Project Manager,90443.25747,3,Auto Insurance,Female,1,Zensar Technologies
+389,C_490,50,Ahmedabad,IT Project Manager,77171.50217,7,Homeowners Insurance,Female,0,HCL Technologies
+390,C_491,42,Ahmedabad,Network Engineer,87072.83466,4,Critical Illness Insurance,Male,1,TCS
+391,C_492,57,Mumbai,Database Administrator,39376.01435,0,Disability Insurance,Male,1,Genpact
+392,C_493,51,Kolkata,Data Scientist,34451.28061,2,Travel Insurance,Male,1,HCL Technologies
+393,C_494,47,Delhi,Systems Administrator,6305.501858,4,Critical Illness Insurance,Female,1,Hexaware Technologies
+394,C_495,55,Pune,Database Administrator,33001.52125,1,Auto Insurance,Male,1,Tech Mahindra
+395,C_496,46,Noida,Machine Learning Engineer,44747.95642,1,Auto Insurance,Male,1,Cognizant
+396,C_497,33,Chennai,Cloud Solutions Architect,90548.39042,3,Life Insurance,Male,1,HCL Technologies
+397,C_498,53,Kolkata,Systems Administrator,54337.77658,5,Travel Insurance,Male,1,KPIT Technologies
+398,C_499,58,Kolkata,Database Administrator,12708.5227,7,Auto Insurance,Male,0,Lionbridge Technologies
+399,C_500,34,Mumbai,Data Scientist,80120.67922,1,Disability Insurance,Female,0,Oracle Financial Services Software
+400,C_501,59,Noida,Network Architect,1680.073956,6,Health Insurance,Female,0,Cyient
+401,C_502,58,Indore,Data Scientist,5094.46573,6,Disability Insurance,Male,1,KPIT Technologies
+402,C_503,33,Bengaluru,Cloud Solutions Architect,24674.54401,5,Renters Insurance,Male,0,Oracle Financial Services Software
+403,C_504,39,Ahmedabad,IT Support Specialist,7959.417014,7,Homeowners Insurance,Male,1,Hexaware Technologies
+404,C_505,42,Hyderabad,QA Engineer,76246.8508,6,Critical Illness Insurance,Male,0,Zensar Technologies
+405,C_506,48,Noida,Business Analyst,38449.21706,0,Health Insurance,Female,0,Oracle Financial Services Software
+406,C_507,36,Delhi,QA Engineer,29370.76387,1,Health Insurance,Female,0,HCL Technologies
+407,C_508,55,Indore,Network Architect,86033.66103,0,Disability Insurance,Male,0,Cognizant
+408,C_509,55,Pune,Security Analyst,27849.43842,3,Critical Illness Insurance,Male,0,Hexaware Technologies
+409,C_510,33,Bengaluru,IT Project Manager,56251.43455,7,Auto Insurance,Male,1,Mphasis
+410,C_511,31,Mumbai,IT Support Specialist,51499.6728,6,Long-Term Care Insurance,Male,1,Wipro
+411,C_512,43,Delhi,Cloud Solutions Architect,46098.14256,4,Renters Insurance,Female,1,Tata Elxsi
+412,C_513,44,Ahmedabad,Software Developer,27077.82921,5,Renters Insurance,Female,1,Persistent Systems
+413,C_514,53,Delhi,Security Analyst,59606.04005,6,Homeowners Insurance,Male,0,IBM India
+414,C_515,42,Mumbai,Web Developer,97859.03409,1,Critical Illness Insurance,Female,1,Cyient
+415,C_516,58,Hyderabad,IT Project Manager,58482.91754,6,Health Insurance,Female,0,QuEST Global
+416,C_517,38,Bengaluru,Software Developer,15222.96911,5,Life Insurance,Female,1,Oracle Financial Services Software
+417,C_518,44,Bengaluru,Machine Learning Engineer,60642.67701,2,Critical Illness Insurance,Male,0,Birlasoft
+418,C_519,41,Hyderabad,Machine Learning Engineer,39919.96261,3,Homeowners Insurance,Female,0,Mindtree
+419,C_520,37,Mumbai,UI/UX Designer,93001.64286,1,Auto Insurance,Male,0,Tata Elxsi
+420,C_521,40,Ahmedabad,Software Developer,12477.23637,4,Critical Illness Insurance,Female,0,Tata Elxsi
+421,C_522,43,Chennai,Systems Administrator,39597.04563,1,Auto Insurance,Male,0,Genpact
+422,C_523,40,Chennai,Web Developer,78993.47054,6,Critical Illness Insurance,Female,1,Mindfire Solutions
+423,C_524,42,Delhi,Software Developer,34766.56426,1,Long-Term Care Insurance,Female,1,QuEST Global
+424,C_525,42,Noida,QA Engineer,46152.05839,0,Critical Illness Insurance,Male,1,Lionbridge Technologies
+425,C_526,45,Mumbai,Cloud Solutions Architect,26987.71444,0,Life Insurance,Female,1,Larsen & Toubro Infotech (LTI)
+426,C_527,52,Delhi,Cloud Solutions Architect,36915.37107,5,Long-Term Care Insurance,Female,1,Tata Elxsi
+427,C_528,51,Mumbai,Cybersecurity Specialist,83414.17552,3,Life Insurance,Male,1,KPIT Technologies
+428,C_529,38,Mumbai,IT Consultant,74354.96046,6,Life Insurance,Male,1,KPIT Technologies
+429,C_530,43,Noida,Security Analyst,46585.3851,0,Life Insurance,Female,0,Birlasoft
+430,C_531,33,Hyderabad,Network Engineer,22068.89772,6,Critical Illness Insurance,Male,1,Mindtree
+431,C_532,53,Mumbai,System Analyst,89445.05503,6,Homeowners Insurance,Male,1,Cyient
+432,C_533,47,Noida,System Analyst,35833.39342,5,Critical Illness Insurance,Female,0,HCL Technologies
+433,C_534,47,Pune,Web Developer,7889.652447,5,Life Insurance,Male,1,Infosys
+434,C_535,46,Noida,Security Analyst,15885.91021,7,Disability Insurance,Female,0,QuEST Global
+435,C_536,45,Hyderabad,Data Scientist,43139.34713,3,Homeowners Insurance,Male,0,Accenture India
+436,C_537,40,Kolkata,Software Developer,41294.30204,4,Disability Insurance,Male,1,Mindtree
+437,C_538,42,Hyderabad,Data Scientist,2896.319533,7,Life Insurance,Male,1,Tech Mahindra
+438,C_539,46,Kolkata,Business Analyst,94098.99558,3,Travel Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+439,C_540,47,Mumbai,Systems Administrator,42254.55286,6,Renters Insurance,Male,0,Mindtree
+440,C_541,33,Pune,Cybersecurity Specialist,92140.85921,7,Disability Insurance,Female,0,Polaris Consulting & Services
+441,C_542,30,Chennai,IT Consultant,1274.475722,5,Health Insurance,Male,0,Larsen & Toubro Infotech (LTI)
+442,C_543,51,Kolkata,IT Support Specialist,92755.39442,1,Disability Insurance,Female,0,Mindtree
+443,C_544,44,Hyderabad,Network Engineer,83026.18546,4,Homeowners Insurance,Male,0,Polaris Consulting & Services
+444,C_545,32,Chennai,Web Developer,42688.65322,5,Travel Insurance,Female,0,Oracle Financial Services Software
+445,C_546,43,Pune,UI/UX Designer,17954.49771,5,Renters Insurance,Male,0,Mindtree
+446,C_547,41,Indore,System Analyst,54820.11118,7,Renters Insurance,Male,0,KPIT Technologies
+447,C_548,46,Kolkata,Systems Administrator,48918.0817,5,Homeowners Insurance,Female,0,HCL Technologies
+448,C_549,54,Noida,Cloud Solutions Architect,24253.93456,3,Life Insurance,Female,0,Genpact
+449,C_550,44,Indore,System Analyst,67386.64735,6,Travel Insurance,Female,1,QuEST Global
+450,C_551,31,Indore,Cybersecurity Specialist,71487.09281,5,Travel Insurance,Male,0,Mindtree
+451,C_552,55,Hyderabad,Machine Learning Engineer,64747.21069,5,Auto Insurance,Male,1,Oracle Financial Services Software
+452,C_553,42,Hyderabad,DevOps Engineer,26482.18725,2,Travel Insurance,Male,0,Larsen & Toubro Infotech (LTI)
+453,C_554,46,Mumbai,Network Architect,4342.761462,2,Renters Insurance,Female,0,Cyient
+454,C_555,44,Hyderabad,DevOps Engineer,85764.27003,3,Homeowners Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+455,C_556,51,Hyderabad,IT Support Specialist,70555.56799,1,Critical Illness Insurance,Male,0,Cognizant
+456,C_557,53,Noida,Network Engineer,97616.34652,5,Auto Insurance,Male,0,Polaris Consulting & Services
+457,C_558,57,Bengaluru,Database Administrator,24042.55467,2,Disability Insurance,Female,1,TCS
+458,C_559,30,Mumbai,Technical Writer,64304.37501,1,Travel Insurance,Female,1,KPIT Technologies
+459,C_560,44,Noida,Data Scientist,42761.21807,5,Disability Insurance,Female,1,Persistent Systems
+460,C_561,45,Delhi,IT Project Manager,13362.29099,0,Health Insurance,Male,0,Hexaware Technologies
+461,C_562,43,Delhi,Cybersecurity Specialist,70913.38574,0,Auto Insurance,Female,1,Mphasis
+462,C_563,36,Ahmedabad,Data Scientist,57630.30698,0,Critical Illness Insurance,Male,1,IBM India
+463,C_564,58,Hyderabad,Cybersecurity Specialist,44382.81232,6,Long-Term Care Insurance,Male,0,QuEST Global
+464,C_565,35,Pune,Security Analyst,65710.58273,6,Homeowners Insurance,Female,1,Mphasis
+465,C_566,50,Kolkata,Web Developer,97867.54449,5,Renters Insurance,Female,0,Wipro
+466,C_567,50,Hyderabad,Network Engineer,2302.618847,7,Critical Illness Insurance,Female,1,Wipro
+467,C_568,46,Kolkata,Network Architect,68271.43795,2,Homeowners Insurance,Female,1,TCS
+468,C_569,46,Delhi,IT Support Specialist,6023.455961,7,Critical Illness Insurance,Male,1,Capgemini India
+469,C_570,30,Pune,IT Consultant,11022.63986,1,Renters Insurance,Female,1,Tech Mahindra
+470,C_571,36,Indore,QA Engineer,66876.6125,6,Homeowners Insurance,Male,1,Oracle Financial Services Software
+471,C_572,41,Mumbai,Systems Administrator,19915.43364,3,Renters Insurance,Male,1,Polaris Consulting & Services
+472,C_573,48,Mumbai,Network Architect,92470.34697,2,Critical Illness Insurance,Male,1,HCL Technologies
+473,C_574,32,Mumbai,IT Project Manager,91433.5199,1,Long-Term Care Insurance,Female,0,Birlasoft
+474,C_575,41,Chennai,Network Architect,56922.2999,5,Long-Term Care Insurance,Female,0,Birlasoft
+475,C_576,43,Chennai,Business Analyst,84743.28849,2,Homeowners Insurance,Male,0,Tata Elxsi
+476,C_577,33,Bengaluru,Security Analyst,66448.56467,6,Health Insurance,Female,0,Tech Mahindra
+477,C_578,52,Indore,Machine Learning Engineer,77003.02079,0,Critical Illness Insurance,Male,0,QuEST Global
+478,C_579,43,Bengaluru,Cybersecurity Specialist,63509.33031,3,Homeowners Insurance,Female,0,NIIT Technologies
+479,C_580,33,Mumbai,QA Engineer,8486.73571,4,Homeowners Insurance,Female,0,Zensar Technologies
+480,C_581,30,Pune,Security Analyst,22945.39646,2,Auto Insurance,Male,0,Persistent Systems
+481,C_582,37,Bengaluru,Security Analyst,93761.22195,7,Health Insurance,Male,1,HCL Technologies
+482,C_583,36,Delhi,IT Consultant,20849.83095,4,Critical Illness Insurance,Female,0,Lionbridge Technologies
+483,C_584,47,Noida,Business Analyst,62745.88288,2,Renters Insurance,Male,0,QuEST Global
+484,C_585,38,Kolkata,Software Developer,40657.73203,2,Homeowners Insurance,Male,0,Zensar Technologies
+485,C_586,40,Kolkata,IT Project Manager,96180.52224,0,Life Insurance,Female,1,Cognizant
+486,C_587,35,Pune,Machine Learning Engineer,81288.34836,6,Homeowners Insurance,Female,0,Zensar Technologies
+487,C_588,30,Chennai,Business Analyst,87882.74509,3,Auto Insurance,Male,0,Larsen & Toubro Infotech (LTI)
+488,C_589,40,Chennai,Network Engineer,75427.51924,3,Renters Insurance,Female,1,Capgemini India
+489,C_590,43,Kolkata,Machine Learning Engineer,77465.69561,0,Disability Insurance,Male,0,NIIT Technologies
+490,C_591,52,Delhi,Network Architect,85599.3191,7,Disability Insurance,Female,0,Tata Elxsi
+491,C_592,49,Delhi,IT Project Manager,37644.82187,2,Health Insurance,Male,0,Birlasoft
+492,C_593,32,Delhi,IT Project Manager,27346.74281,1,Homeowners Insurance,Male,0,Tech Mahindra
+493,C_594,50,Chennai,Web Developer,42664.62621,2,Disability Insurance,Male,0,Infosys
+494,C_595,48,Delhi,Software Developer,56242.16368,1,Renters Insurance,Female,0,Mindfire Solutions
+495,C_596,33,Pune,System Analyst,23586.63364,4,Homeowners Insurance,Female,0,Cyient
+496,C_597,51,Chennai,UI/UX Designer,72143.64639,4,Renters Insurance,Male,0,Cognizant
+497,C_598,39,Pune,IT Project Manager,90988.08965,7,Health Insurance,Male,1,IBM India
+498,C_599,34,Delhi,Business Analyst,50691.91321,6,Auto Insurance,Male,0,Wipro
+499,C_600,47,Hyderabad,IT Consultant,3732.292061,7,Health Insurance,Female,1,Mindtree
+500,C_601,39,Delhi,IT Consultant,98806.49491,7,Long-Term Care Insurance,Male,0,Mindtree
+501,C_602,59,Kolkata,IT Project Manager,74136.47699,6,Auto Insurance,Female,1,Aricent
+502,C_603,56,Indore,System Analyst,77821.86963,0,Long-Term Care Insurance,Female,0,Mindtree
+503,C_604,44,Chennai,IT Consultant,69986.75858,3,Health Insurance,Male,1,Birlasoft
+504,C_605,45,Bengaluru,Security Analyst,80411.82862,7,Homeowners Insurance,Female,1,Persistent Systems
+505,C_606,59,Noida,Network Engineer,28710.85648,7,Renters Insurance,Male,1,Tata Elxsi
+506,C_607,52,Hyderabad,QA Engineer,67477.11975,0,Renters Insurance,Male,0,QuEST Global
+507,C_608,42,Bengaluru,IT Project Manager,73418.9044,4,Disability Insurance,Male,1,Hexaware Technologies
+508,C_609,47,Delhi,Systems Administrator,57515.16293,3,Travel Insurance,Male,1,KPIT Technologies
+509,C_610,45,Kolkata,UI/UX Designer,77662.91299,7,Homeowners Insurance,Female,1,Mphasis
+510,C_611,50,Kolkata,IT Consultant,70401.33807,0,Auto Insurance,Female,1,Infosys
+511,C_612,42,Pune,QA Engineer,45201.90181,3,Long-Term Care Insurance,Male,0,Infosys
+512,C_613,31,Kolkata,Machine Learning Engineer,41009.63642,5,Homeowners Insurance,Male,1,Capgemini India
+513,C_614,56,Kolkata,Cloud Solutions Architect,91253.60059,4,Life Insurance,Female,0,IBM India
+514,C_615,42,Ahmedabad,Network Engineer,82230.93091,3,Health Insurance,Male,1,TCS
+515,C_616,48,Ahmedabad,Data Scientist,72276.9066,3,Disability Insurance,Male,1,Infosys
+516,C_617,48,Delhi,Technical Writer,60761.84425,2,Homeowners Insurance,Female,1,TCS
+517,C_618,39,Indore,Database Administrator,22576.12189,7,Travel Insurance,Female,1,Tata Elxsi
+518,C_619,34,Noida,Network Engineer,34574.27411,7,Disability Insurance,Male,1,Aricent
+519,C_620,30,Kolkata,Machine Learning Engineer,59706.57632,7,Critical Illness Insurance,Male,0,Capgemini India
+520,C_621,53,Bengaluru,Network Architect,25813.84481,4,Health Insurance,Male,1,Infosys
+521,C_622,48,Pune,Cloud Solutions Architect,61066.07788,7,Travel Insurance,Female,1,Mindtree
+522,C_623,49,Pune,Technical Writer,54958.41379,0,Renters Insurance,Male,1,Mindtree
+523,C_624,33,Kolkata,Network Architect,13217.6578,6,Renters Insurance,Female,1,Lionbridge Technologies
+524,C_625,48,Kolkata,Database Administrator,4749.679044,3,Health Insurance,Male,1,Mindtree
+525,C_626,52,Indore,Security Analyst,72649.49596,1,Health Insurance,Female,0,Mphasis
+526,C_627,56,Bengaluru,Data Scientist,61662.04616,0,Auto Insurance,Female,1,NIIT Technologies
+527,C_628,36,Indore,Cloud Solutions Architect,36635.61598,5,Homeowners Insurance,Male,1,Lionbridge Technologies
+528,C_629,59,Bengaluru,Network Architect,65094.00395,5,Disability Insurance,Female,1,Persistent Systems
+529,C_630,52,Bengaluru,Security Analyst,50119.1262,6,Life Insurance,Female,0,Lionbridge Technologies
+530,C_631,33,Chennai,DevOps Engineer,64774.42134,7,Long-Term Care Insurance,Female,0,QuEST Global
+531,C_632,53,Delhi,System Analyst,99701.98326,2,Disability Insurance,Male,1,Infosys
+532,C_633,41,Indore,DevOps Engineer,37675.67371,5,Life Insurance,Male,1,Oracle Financial Services Software
+533,C_634,51,Delhi,IT Support Specialist,15496.75845,2,Renters Insurance,Male,0,Capgemini India
+534,C_635,53,Pune,UI/UX Designer,21046.05237,1,Disability Insurance,Male,0,Larsen & Toubro Infotech (LTI)
+535,C_636,56,Bengaluru,Cloud Solutions Architect,94734.39541,7,Homeowners Insurance,Female,1,Larsen & Toubro Infotech (LTI)
+536,C_637,49,Hyderabad,Systems Administrator,96283.73253,7,Life Insurance,Female,1,Persistent Systems
+537,C_638,52,Noida,Data Scientist,45003.15563,3,Life Insurance,Male,0,KPIT Technologies
+538,C_639,49,Bengaluru,Business Analyst,88899.32606,2,Critical Illness Insurance,Male,0,Larsen & Toubro Infotech (LTI)
+539,C_640,58,Mumbai,IT Support Specialist,84330.26601,0,Health Insurance,Male,1,Mindfire Solutions
+540,C_641,30,Indore,QA Engineer,84921.60741,1,Long-Term Care Insurance,Female,1,QuEST Global
+541,C_642,34,Pune,Cybersecurity Specialist,89363.62868,4,Disability Insurance,Female,0,Infosys
+542,C_643,42,Hyderabad,UI/UX Designer,18920.14065,6,Long-Term Care Insurance,Male,1,Tech Mahindra
+543,C_644,40,Pune,Data Scientist,72755.54156,5,Life Insurance,Female,1,IBM India
+544,C_645,59,Mumbai,Network Engineer,29730.51103,5,Auto Insurance,Male,0,Wipro
+545,C_646,50,Pune,IT Consultant,8641.736644,5,Long-Term Care Insurance,Male,1,Lionbridge Technologies
+546,C_647,31,Chennai,Network Engineer,69245.05859,7,Life Insurance,Female,0,Cognizant
+547,C_648,57,Pune,IT Consultant,14691.10047,4,Homeowners Insurance,Male,0,Tata Elxsi
+548,C_649,32,Hyderabad,Database Administrator,9559.643011,3,Travel Insurance,Male,0,Tata Elxsi
+549,C_650,59,Mumbai,Security Analyst,62922.13399,5,Travel Insurance,Female,1,QuEST Global
+550,C_651,51,Noida,DevOps Engineer,16837.68091,7,Disability Insurance,Female,1,Tech Mahindra
+551,C_652,56,Ahmedabad,Machine Learning Engineer,87651.08437,2,Critical Illness Insurance,Female,1,Cognizant
+552,C_653,33,Mumbai,IT Consultant,46887.46623,0,Long-Term Care Insurance,Male,1,Infosys
+553,C_654,42,Chennai,Data Scientist,63076.53377,2,Auto Insurance,Female,0,Capgemini India
+554,C_655,42,Noida,IT Project Manager,93478.80843,3,Health Insurance,Female,0,Polaris Consulting & Services
+555,C_656,49,Ahmedabad,DevOps Engineer,9718.710244,1,Disability Insurance,Male,0,Mphasis
+556,C_657,51,Bengaluru,IT Consultant,18932.32348,1,Homeowners Insurance,Male,0,Tech Mahindra
+557,C_658,42,Noida,Machine Learning Engineer,51448.21963,4,Travel Insurance,Female,1,HCL Technologies
+558,C_659,51,Chennai,Business Analyst,76319.70689,7,Life Insurance,Female,1,IBM India
+559,C_660,45,Noida,Network Architect,68798.52753,3,Long-Term Care Insurance,Female,1,Lionbridge Technologies
+560,C_661,31,Ahmedabad,Machine Learning Engineer,74751.69692,2,Homeowners Insurance,Male,0,Mphasis
+561,C_662,56,Chennai,Cloud Solutions Architect,50293.15224,7,Long-Term Care Insurance,Male,1,NIIT Technologies
+562,C_663,53,Bengaluru,Machine Learning Engineer,54828.64958,7,Homeowners Insurance,Male,1,Polaris Consulting & Services
+563,C_664,59,Noida,UI/UX Designer,31790.32312,4,Critical Illness Insurance,Female,0,Zensar Technologies
+564,C_665,46,Noida,UI/UX Designer,54980.29324,7,Renters Insurance,Female,0,Cyient
+565,C_666,31,Delhi,QA Engineer,70120.37232,2,Critical Illness Insurance,Female,0,Tech Mahindra
+566,C_667,47,Hyderabad,Software Developer,45028.1155,2,Health Insurance,Male,0,TCS
+567,C_668,38,Pune,Database Administrator,26608.97917,0,Long-Term Care Insurance,Female,0,Mindtree
+568,C_669,57,Kolkata,Network Architect,31794.8621,4,Auto Insurance,Female,0,Mphasis
+569,C_670,34,Bengaluru,IT Consultant,38341.48561,6,Critical Illness Insurance,Male,1,Zensar Technologies
+570,C_671,33,Chennai,Web Developer,17330.53625,4,Disability Insurance,Male,1,HCL Technologies
+571,C_672,39,Ahmedabad,UI/UX Designer,8493.106956,4,Life Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+572,C_673,49,Delhi,Technical Writer,32315.4814,6,Renters Insurance,Female,0,Mindfire Solutions
+573,C_674,46,Mumbai,Software Developer,53500.98701,2,Disability Insurance,Female,1,Mindtree
+574,C_675,38,Mumbai,Software Developer,4812.616786,4,Critical Illness Insurance,Male,0,Larsen & Toubro Infotech (LTI)
+575,C_676,31,Chennai,QA Engineer,70114.91872,5,Health Insurance,Female,0,Mindtree
+576,C_677,50,Hyderabad,System Analyst,60837.08158,3,Disability Insurance,Male,0,QuEST Global
+577,C_678,51,Ahmedabad,Network Engineer,63478.57295,1,Travel Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+578,C_679,32,Indore,System Analyst,47192.6039,1,Long-Term Care Insurance,Female,0,Tech Mahindra
+579,C_680,51,Delhi,System Analyst,34694.15952,4,Health Insurance,Female,0,Zensar Technologies
+580,C_681,34,Indore,IT Consultant,24153.74403,6,Health Insurance,Female,1,Persistent Systems
+581,C_682,51,Chennai,IT Project Manager,18076.94195,4,Life Insurance,Female,0,Oracle Financial Services Software
+582,C_683,59,Hyderabad,Machine Learning Engineer,17358.52167,1,Life Insurance,Female,0,Persistent Systems
+583,C_684,33,Hyderabad,Machine Learning Engineer,2205.148205,4,Health Insurance,Male,1,Wipro
+584,C_685,43,Pune,QA Engineer,50568.35322,7,Auto Insurance,Female,1,Lionbridge Technologies
+585,C_686,58,Hyderabad,Security Analyst,44300.41631,1,Homeowners Insurance,Male,1,NIIT Technologies
+586,C_687,38,Ahmedabad,Cybersecurity Specialist,5244.149311,4,Life Insurance,Male,1,Tech Mahindra
+587,C_688,30,Noida,Machine Learning Engineer,18448.11515,1,Life Insurance,Male,0,Cyient
+588,C_689,48,Chennai,Network Architect,53463.78821,7,Disability Insurance,Male,1,Zensar Technologies
+589,C_690,37,Hyderabad,Software Developer,14130.80575,5,Health Insurance,Male,1,Larsen & Toubro Infotech (LTI)
+590,C_691,49,Hyderabad,IT Project Manager,83007.10982,0,Critical Illness Insurance,Female,0,Polaris Consulting & Services
+591,C_692,30,Ahmedabad,IT Support Specialist,15158.17718,1,Renters Insurance,Male,0,Cognizant
+592,C_693,53,Hyderabad,Cloud Solutions Architect,43930.09251,0,Travel Insurance,Female,1,Mindfire Solutions
+593,C_694,42,Pune,Security Analyst,30548.13031,0,Renters Insurance,Male,1,Hexaware Technologies
+594,C_695,31,Indore,Data Scientist,13646.13051,5,Disability Insurance,Male,0,Larsen & Toubro Infotech (LTI)
+595,C_696,45,Noida,System Analyst,45704.96502,7,Homeowners Insurance,Female,0,Persistent Systems
+596,C_697,38,Kolkata,DevOps Engineer,95627.18454,7,Life Insurance,Female,1,Lionbridge Technologies
+597,C_698,53,Indore,Software Developer,58565.56371,5,Travel Insurance,Female,0,Cognizant
+598,C_699,47,Mumbai,Database Administrator,3234.070725,0,Critical Illness Insurance,Male,1,Tata Elxsi
+599,C_700,36,Ahmedabad,Machine Learning Engineer,51710.90443,4,Auto Insurance,Male,0,IBM India
+600,C_701,40,Ahmedabad,Technical Writer,76760.34925,1,Auto Insurance,Female,1,HCL Technologies
+601,C_702,37,Noida,IT Consultant,58577.21286,6,Auto Insurance,Male,0,Cyient
+602,C_703,51,Delhi,Systems Administrator,23155.66218,4,Health Insurance,Female,1,Hexaware Technologies
+603,C_704,39,Noida,Security Analyst,57612.2701,6,Long-Term Care Insurance,Male,1,Birlasoft
+604,C_705,42,Hyderabad,Web Developer,22038.82918,1,Health Insurance,Male,1,QuEST Global
+605,C_706,52,Hyderabad,IT Project Manager,67607.55845,1,Critical Illness Insurance,Male,1,Wipro
+606,C_707,53,Chennai,Network Engineer,70135.71579,3,Homeowners Insurance,Male,0,Aricent
+607,C_708,52,Bengaluru,System Analyst,46454.73558,5,Long-Term Care Insurance,Female,1,Mphasis
+608,C_709,55,Ahmedabad,Network Architect,82601.07721,5,Disability Insurance,Female,0,Genpact
+609,C_710,45,Indore,UI/UX Designer,42786.5995,2,Life Insurance,Female,0,Infosys
+610,C_711,32,Hyderabad,Data Scientist,85854.73145,0,Renters Insurance,Female,0,Mindtree
+611,C_712,34,Hyderabad,Database Administrator,59646.59437,0,Long-Term Care Insurance,Male,0,Wipro
+612,C_713,36,Kolkata,Database Administrator,36860.48155,0,Critical Illness Insurance,Female,0,Cognizant
+613,C_714,54,Indore,System Analyst,50409.84883,7,Homeowners Insurance,Male,1,KPIT Technologies
+614,C_715,46,Mumbai,Machine Learning Engineer,12801.74966,7,Travel Insurance,Female,1,Capgemini India
+615,C_716,55,Delhi,Network Engineer,58982.49249,3,Life Insurance,Male,0,Mphasis
+616,C_717,37,Indore,IT Consultant,92709.30426,2,Homeowners Insurance,Male,0,IBM India
+617,C_718,52,Pune,Machine Learning Engineer,33322.69988,1,Long-Term Care Insurance,Male,1,Lionbridge Technologies
+618,C_719,57,Chennai,IT Support Specialist,60848.3671,7,Auto Insurance,Male,0,Tata Elxsi
+619,C_720,57,Pune,Data Scientist,69683.49119,0,Auto Insurance,Female,0,Zensar Technologies
+620,C_721,46,Noida,Data Scientist,55692.8372,3,Homeowners Insurance,Male,1,Wipro
+621,C_722,54,Mumbai,IT Project Manager,6386.719442,0,Critical Illness Insurance,Female,0,Capgemini India
+622,C_723,43,Delhi,Network Engineer,64241.57655,5,Disability Insurance,Male,0,Mindtree
+623,C_724,51,Hyderabad,Technical Writer,79696.39018,3,Life Insurance,Male,1,Aricent
+624,C_725,40,Chennai,Cloud Solutions Architect,74166.92078,2,Long-Term Care Insurance,Male,0,Accenture India
+625,C_726,33,Mumbai,DevOps Engineer,94762.1093,0,Health Insurance,Female,0,Lionbridge Technologies
+626,C_727,58,Kolkata,Database Administrator,7610.176185,6,Homeowners Insurance,Female,0,Mindtree
+627,C_728,37,Kolkata,Database Administrator,32661.72226,6,Long-Term Care Insurance,Female,0,HCL Technologies
+628,C_729,57,Kolkata,System Analyst,18526.81318,2,Life Insurance,Male,0,Tata Elxsi
+629,C_730,54,Bengaluru,Business Analyst,58033.51139,5,Long-Term Care Insurance,Female,0,Larsen & Toubro Infotech (LTI)
+630,C_731,50,Indore,Machine Learning Engineer,54929.83617,0,Homeowners Insurance,Female,1,Infosys
+631,C_732,47,Pune,Web Developer,52806.44764,0,Long-Term Care Insurance,Male,0,Cyient
+632,C_733,34,Kolkata,IT Project Manager,18780.45047,7,Renters Insurance,Female,0,Oracle Financial Services Software
+633,C_734,38,Chennai,IT Project Manager,84444.81972,5,Life Insurance,Male,0,Zensar Technologies
+634,C_735,42,Mumbai,QA Engineer,17612.72852,0,Disability Insurance,Male,0,Cyient
+635,C_736,51,Bengaluru,Cybersecurity Specialist,42485.61867,0,Homeowners Insurance,Male,0,Capgemini India
+636,C_737,33,Bengaluru,IT Consultant,10571.3147,4,Homeowners Insurance,Male,0,Mindfire Solutions
+637,C_738,57,Kolkata,System Analyst,9840.891221,2,Homeowners Insurance,Male,1,Oracle Financial Services Software
+638,C_739,46,Indore,Business Analyst,84529.48436,1,Life Insurance,Female,0,Oracle Financial Services Software
+639,C_740,59,Bengaluru,UI/UX Designer,22243.90013,0,Homeowners Insurance,Male,0,Cognizant
+640,C_741,48,Pune,QA Engineer,54413.49259,7,Health Insurance,Female,1,Mphasis
+641,C_742,35,Kolkata,IT Support Specialist,26187.98914,5,Disability Insurance,Male,1,Birlasoft
+642,C_743,55,Indore,IT Consultant,85887.41686,7,Homeowners Insurance,Female,0,Polaris Consulting & Services
+643,C_744,58,Chennai,IT Support Specialist,91767.48861,0,Disability Insurance,Female,1,Mindfire Solutions
+644,C_745,39,Mumbai,Cloud Solutions Architect,77778.10974,6,Renters Insurance,Female,1,Mphasis
+645,C_746,42,Pune,Software Developer,55156.99259,2,Renters Insurance,Male,1,Genpact
+646,C_747,35,Ahmedabad,Security Analyst,39665.18447,4,Health Insurance,Male,0,Birlasoft
+647,C_748,48,Kolkata,Security Analyst,72209.84569,6,Travel Insurance,Female,0,NIIT Technologies
+648,C_749,59,Noida,Machine Learning Engineer,5145.800959,2,Health Insurance,Female,0,Zensar Technologies
+649,C_750,48,Ahmedabad,Software Developer,19262.01756,3,Renters Insurance,Female,1,Wipro
+650,C_751,50,Kolkata,Data Scientist,70407.88649,7,Disability Insurance,Female,0,KPIT Technologies
+651,C_752,37,Mumbai,Technical Writer,11853.388,3,Long-Term Care Insurance,Male,0,Oracle Financial Services Software
+652,C_753,32,Mumbai,DevOps Engineer,54170.14445,0,Auto Insurance,Female,1,Larsen & Toubro Infotech (LTI)
+653,C_754,46,Bengaluru,Cloud Solutions Architect,9818.650936,5,Travel Insurance,Male,0,Hexaware Technologies
+654,C_755,59,Noida,IT Consultant,56920.70769,0,Health Insurance,Male,1,Persistent Systems
+655,C_756,34,Indore,Database Administrator,32886.26495,3,Disability Insurance,Male,0,Persistent Systems
+656,C_757,41,Ahmedabad,Network Engineer,73948.04865,5,Health Insurance,Female,1,Mindtree
+657,C_758,50,Kolkata,Cloud Solutions Architect,44435.55491,0,Health Insurance,Male,1,Tech Mahindra
+658,C_759,49,Delhi,Cloud Solutions Architect,85666.77341,7,Long-Term Care Insurance,Male,1,Genpact
+659,C_760,59,Indore,Web Developer,13845.10496,2,Critical Illness Insurance,Female,0,Mphasis
+660,C_761,31,Hyderabad,IT Support Specialist,35933.05039,2,Auto Insurance,Female,1,Oracle Financial Services Software
+661,C_762,41,Bengaluru,Network Engineer,56877.77937,6,Auto Insurance,Female,1,Persistent Systems
+662,C_763,45,Mumbai,Business Analyst,85807.02757,4,Auto Insurance,Female,1,Birlasoft
+663,C_764,41,Kolkata,Web Developer,78760.87605,4,Critical Illness Insurance,Female,1,Hexaware Technologies
+664,C_765,49,Bengaluru,Network Engineer,5959.112505,0,Health Insurance,Male,1,Zensar Technologies
+665,C_766,41,Chennai,Cybersecurity Specialist,7330.441299,4,Life Insurance,Female,1,Aricent
+666,C_767,53,Mumbai,UI/UX Designer,79279.83988,0,Disability Insurance,Male,0,Capgemini India
+667,C_768,45,Noida,Cloud Solutions Architect,18293.15701,6,Critical Illness Insurance,Male,0,TCS
+668,C_769,58,Ahmedabad,QA Engineer,38056.92565,4,Auto Insurance,Male,0,Oracle Financial Services Software
+669,C_770,59,Ahmedabad,Web Developer,94602.49723,4,Renters Insurance,Male,0,Tata Elxsi
+670,C_771,34,Mumbai,Security Analyst,7728.808308,7,Health Insurance,Male,0,Hexaware Technologies
+671,C_772,52,Kolkata,QA Engineer,75684.24616,1,Travel Insurance,Female,0,Hexaware Technologies
+672,C_773,37,Pune,System Analyst,35053.23283,3,Travel Insurance,Female,0,Cyient
+673,C_774,33,Chennai,UI/UX Designer,8392.357591,1,Disability Insurance,Male,0,Capgemini India
+674,C_775,55,Mumbai,Web Developer,37382.35663,4,Health Insurance,Male,1,Hexaware Technologies
+675,C_776,54,Delhi,QA Engineer,52401.70793,5,Homeowners Insurance,Female,1,Zensar Technologies
+676,C_777,41,Bengaluru,Technical Writer,5106.046358,0,Life Insurance,Female,0,Accenture India
+677,C_778,45,Bengaluru,Cybersecurity Specialist,38302.06499,1,Long-Term Care Insurance,Male,1,Tata Elxsi
+678,C_779,53,Bengaluru,Network Engineer,59508.90198,7,Life Insurance,Male,0,Aricent
+679,C_780,47,Pune,Data Scientist,35012.33584,5,Critical Illness Insurance,Male,0,Persistent Systems
+680,C_781,57,Indore,Database Administrator,33263.6881,0,Life Insurance,Male,0,Persistent Systems
+681,C_782,54,Indore,Systems Administrator,66887.98786,5,Critical Illness Insurance,Female,0,QuEST Global
+682,C_783,33,Ahmedabad,Technical Writer,92176.31807,1,Health Insurance,Male,0,Lionbridge Technologies
+683,C_784,42,Hyderabad,DevOps Engineer,17554.9775,1,Critical Illness Insurance,Male,1,Wipro
+684,C_785,50,Delhi,Network Architect,15026.85077,6,Homeowners Insurance,Female,0,Zensar Technologies
+685,C_786,49,Noida,UI/UX Designer,86390.91733,0,Disability Insurance,Male,0,Capgemini India
+686,C_787,49,Noida,Cybersecurity Specialist,7087.65009,1,Life Insurance,Female,1,Birlasoft
+687,C_788,33,Bengaluru,Systems Administrator,53638.14431,3,Life Insurance,Female,1,Cognizant
+688,C_789,32,Mumbai,System Analyst,84374.59121,3,Auto Insurance,Female,1,Mindtree
+689,C_790,47,Hyderabad,DevOps Engineer,13370.67308,7,Life Insurance,Female,0,Oracle Financial Services Software
+690,C_791,47,Chennai,UI/UX Designer,62446.47851,4,Travel Insurance,Female,0,Lionbridge Technologies
+691,C_792,34,Bengaluru,Cloud Solutions Architect,36336.98752,6,Disability Insurance,Male,0,Accenture India
+692,C_793,51,Bengaluru,Systems Administrator,80895.68371,6,Disability Insurance,Female,0,Cyient
+693,C_794,35,Hyderabad,IT Support Specialist,44036.82608,4,Critical Illness Insurance,Male,0,HCL Technologies
+694,C_795,52,Ahmedabad,Network Architect,4675.79999,1,Travel Insurance,Male,0,HCL Technologies
+695,C_796,41,Kolkata,Technical Writer,54457.90999,2,Travel Insurance,Male,1,Wipro
+696,C_797,31,Bengaluru,Cloud Solutions Architect,83527.5711,3,Disability Insurance,Male,1,HCL Technologies
+697,C_798,49,Noida,Database Administrator,81677.11454,5,Critical Illness Insurance,Female,1,Mindtree
+698,C_799,37,Kolkata,Systems Administrator,62757.47393,3,Auto Insurance,Female,0,Cognizant
+699,C_800,36,Mumbai,Network Engineer,17799.09188,4,Long-Term Care Insurance,Female,0,Persistent Systems
